@@ -1,0 +1,10 @@
+<div class="col-md-12 mensagem">
+  <div *ngFor="let mes of messages">
+    <span>{{mes}}</span>
+  </div>
+</div>
+
+<div class="col-md-12 entrada-texto">
+  <textarea name="message" (keydown)="onPress($event)" [(ngModel)]="message"></textarea>
+  <input type="submit" class="btn btn-success" (click)="sendMessage()">
+</div>

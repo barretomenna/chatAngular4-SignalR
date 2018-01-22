@@ -1,0 +1,10 @@
+/home/rafa/Documentos/projetos/chatSignal/api/bin/Debug/netcoreapp2.0/api.deps.json
+/home/rafa/Documentos/projetos/chatSignal/api/bin/Debug/netcoreapp2.0/api.runtimeconfig.json
+/home/rafa/Documentos/projetos/chatSignal/api/bin/Debug/netcoreapp2.0/api.runtimeconfig.dev.json
+/home/rafa/Documentos/projetos/chatSignal/api/bin/Debug/netcoreapp2.0/api.dll
+/home/rafa/Documentos/projetos/chatSignal/api/bin/Debug/netcoreapp2.0/api.pdb
+/home/rafa/Documentos/projetos/chatSignal/api/obj/Debug/netcoreapp2.0/api.csproj.CoreCompileInputs.cache
+/home/rafa/Documentos/projetos/chatSignal/api/obj/Debug/netcoreapp2.0/api.AssemblyInfoInputs.cache
+/home/rafa/Documentos/projetos/chatSignal/api/obj/Debug/netcoreapp2.0/api.AssemblyInfo.cs
+/home/rafa/Documentos/projetos/chatSignal/api/obj/Debug/netcoreapp2.0/api.dll
+/home/rafa/Documentos/projetos/chatSignal/api/obj/Debug/netcoreapp2.0/api.pdb
